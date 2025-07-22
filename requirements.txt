@@ -1,0 +1,10 @@
+torch
+transformers
+opencv-python
+librosa
+soundfile
+matplotlib
+numpy
+pandas
+tqdm
+deepface 
